@@ -3,17 +3,19 @@
   "private": true,
   "dependencies": {
     "serve": "^12.0.1"
+
   }
+
+"stack": "heroku-18"
 
 " scripts : {
 "start" : "react-scripts start",
 "build" : "react-scripts build",
 "test" : "react-scripts test",
 "ejecter" : "react-scripts ejecter".
+
 }
 
-{
-   "stack": "heroku-18"
-}
+
 
 }
